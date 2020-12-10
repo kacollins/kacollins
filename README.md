@@ -7,6 +7,7 @@ Here's what I've been up to lately:
 * 3+ years working with clients as a software engineer and database consultant
 * Thousands of hours teaching, organizing, and mentoring in the community 
 
-* MBTI: ISTJ
-* DISC: Precisionist CS 
-* Enneagram: Type 1
+Personality:
+* MBTI - ISTJ
+* DISC - Precisionist CS 
+* Enneagram - Type 1
