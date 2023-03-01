@@ -1,12 +1,10 @@
 ### I go by Kimberly!
 
-I'm a professional software development consultant with strong ties to the local technology community.
+I'm a C#.NET software engineer and SQL Server database consultant with 17 years of experience developing and maintaining databases, web applications, desktop applications, and reports.
 
-Here's what I've been up to lately:
-* 5+ years working with clients as a C#.NET software engineer and SQL Server database consultant
-* 7+ years as a .NET developer at a consulting company in OKC
-* Thousands of hours teaching, organizing, and mentoring in the Oklahoma tech community
-* [Learning](https://app.pluralsight.com/profile/kimberly-collins) about lots of different technologies
+My favorite projects involve providing database consulting, designing and developing a database, or rewriting a legacy application. I specialize in helping small businesses that have outdated web or desktop applications or even Excel solutions that aren't working well for them anymore. 
+
+In addition to my technical skills, I’ve been an event organizer and mentor in the local tech community for the past 7 years.
 
 More about me:
 * MBTI - [ISTJ](https://www.16personalities.com/istj-personality)
