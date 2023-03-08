@@ -10,5 +10,6 @@ More about me:
 * MBTI - [ISTJ](https://www.16personalities.com/istj-personality)
 * DISC - [Precisionist CS](https://www.discprofile.com/what-is-disc/disc-styles/conscientiousness)
 * Enneagram - [Type 1](https://www.enneagraminstitute.com/type-1)
+* Big Five - high Conscientiousness, medium Agreeableness and Neuroticism, low Openness and Extraversion
 
 [Find a time to chat with me!](https://calendly.com/kacollins/chat)
