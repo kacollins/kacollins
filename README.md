@@ -1,6 +1,6 @@
 ### I go by Kimberly!
 
-I'm a C#.NET software engineer and SQL Server database consultant with 17 years of experience developing and maintaining databases, web applications, desktop applications, and reports.
+I'm a C#.NET software engineer and SQL Server database consultant with 18 years of experience developing and maintaining databases, web applications, desktop applications, and reports.
 
 My favorite projects involve providing database consulting, designing and developing a database, or rewriting a legacy application. I specialize in helping small businesses that have outdated web or desktop applications or even Excel solutions that aren't working well for them anymore. 
 
