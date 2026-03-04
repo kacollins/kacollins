@@ -13,3 +13,7 @@ More about me:
 * Big Five - high Conscientiousness, medium Agreeableness and Neuroticism, low Openness and Extraversion
 
 [Find a time to chat with me!](https://calendly.com/kacollins/chat)
+
+* C# Demos:
+  * [FTP](https://github.com/kacollins/FTPDemo)
+  * [API](https://github.com/kacollins/HelloWorldAPI)
